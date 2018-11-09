@@ -43,6 +43,9 @@ Creamos nuestro repositorio, y hacemos nuestro primer *commit*.
 Clonamos el repositorio, y hacemos nuestro primer cambio.
 
 ```
+git help
+git init
+git clone
 git status
 git log
 git commit
@@ -53,6 +56,11 @@ git push
 **Participantes**: Todos
 
 **Instrucciones**: En esta primera actividad entenderemos nuestro entorno de trabajo.
+- Crear un reposition en Github.
+- Clonar el repositorio a una carpeta local.
+- Repasar los comandos previos.
+- Hacer el primer commit.
+
 
 #### Material Actividad
 -
